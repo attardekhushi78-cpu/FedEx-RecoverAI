@@ -1,7 +1,7 @@
 # FedEx RecoverAI: Intelligent DCA Management Platform
 
 ### 🚀 Overview
-**FedEx RecoverAI** is a digital ecosystem designed to transform the current manual and fragmented Debt Collection Agency (DCA) management process. By moving away from spreadsheets and emails, we provide a centralized, AI-driven platform for enterprise-grade recovery.
+FedEx RecoverAI is a digital ecosystem designed to transform the current manual and fragmented Debt Collection Agency (DCA) management process. By moving away from spreadsheets and emails, we provide a centralized, AI-driven platform for enterprise-grade recovery.
 
 ### 🛠️ Core Solutions
 * **Centralized Case Management**: Replaces manual Excel tracking with a unified portal for case allocation and closure.
@@ -12,7 +12,7 @@
 ### 🏗️ Technology Stack
 * **AI/ML**: Python-based models for recovery prediction.
 * **UI/UX**: Streamlit-based secure portal for DCA collaboration.
-* **Automation**: RPA logic concepts for legacy system integration.
+* **Automation**: RPA logic concepts for legacy integration.
 
 ### 📂 Repository Structure
 * `priority_engine.py`: AI logic for debt prioritization.
